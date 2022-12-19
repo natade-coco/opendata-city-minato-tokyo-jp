@@ -19,7 +19,7 @@ jobs:
         uses: geolonia/geolonia-locations-action@main
         id: generate_vector_tiles
         with:
-          file: "*.csv"
+          file: "*.geojson"
           out_dir: ./
 
       - name: Deploy
