@@ -9,15 +9,15 @@
   "minzoom": 0,
   "maxzoom": 18,
   "center": [
-    139.716568,
-    35.670127,
+    139.757767,
+    35.66678,
     18
   ],
   "bounds": [
-    139.711909,
-    35.626501,
-    139.778071,
-    35.677096
+    139.007617,
+    34.818138,
+    139.84325,
+    35.744266
   ],
   "tiles": [
     "https://natade-coco.github.io/opendata-city-minato-tokyo-jp/tiles/{z}/{x}/{y}.mvt"
